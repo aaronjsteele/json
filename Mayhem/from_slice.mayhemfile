@@ -1,0 +1,5 @@
+project: serde-json
+target: from_slice
+
+cmds:
+  - cmd: /from_slice
